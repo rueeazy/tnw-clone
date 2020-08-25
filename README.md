@@ -7,4 +7,4 @@ The goal of this project is to practice building responsive web templates.
 
 I will be recreating The Next Web's home page and fluidity. [https://thenextweb.com/]
 
-The final project can be viewed here.
+The final project can be viewed here [https://rueeazy.github.io/tnw-clone/]
